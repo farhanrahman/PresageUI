@@ -1,0 +1,5 @@
+PresageUI is a web interface that I had to create as part of a UROP research project at Imperial College London.
+
+The UI currently is very basic and is built on top of a framework called VAADIN. It pulls up some data from a MySQL database that is being constantly updated and optimises the updates with threads, just like it would in a normal application.
+
+More information can be found in the report in the Report folder.
